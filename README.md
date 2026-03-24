@@ -18,10 +18,11 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar.
 
+- Link Wireframe: https://excalidraw.com/#json=5MX70GINaJ2PZ2bURk3Kw,FmI-yMj9r0G2Lw6eDa7DOQ
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Wireframe](public/img/wireframe.png)
 
 
 ## Print da home-page criada
 
-![Home-page](public/img/site.jpeg)
+![Home-page](public/img/site.png)
