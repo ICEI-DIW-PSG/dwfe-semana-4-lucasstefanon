@@ -185,6 +185,7 @@ main .container {
 
 footer {
     background-color: #000000;
+        background: linear-gradient(to right, #080808 0%, #000000 50%, #080808 90%);
     color: white;
 }
 

@@ -11,8 +11,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Lucas Stefanon
 - Matricula: 1659984
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Plataforma de cursos digitais
+- Breve descrição sobre seu projeto: Uma plataforma prática para estudos, com direcionamento a cursos de programação completos
 
 
 ## Print do(s) wireframe(s) criado
@@ -24,4 +24,4 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Home-page](public/img/site.jpeg)
