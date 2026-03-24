@@ -15,6 +15,17 @@ a:visited {
     background-color: auto;
 }
 
+::-webkit-scrollbar {
+    border-radius: 7px;
+    width: 10px;
+    background-color: rgb(20, 20, 20);
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 7px;
+        width: 10px;
+    background-color: rgb(172, 2, 2);
+}
+
 /* CABEÇALHO / MENU */
 
 .menu {
