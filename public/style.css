@@ -1,3 +1,84 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
-    background-color: aquamarine;
+    background-color: rgb(24, 24, 24);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: auto;
+}
+
+/* CABEÇALHO / MENU */
+
+.menu {
+    background-color: black;
+    background: linear-gradient(to right, #0f0f0f 0%, #000000 50%, #0f0f0f 90%);
+    display: flex;
+    align-items: center;
+    padding: 15px 25px;
+    gap: 30px;
+}
+
+#logo:hover {
+    opacity: 80%;
+    transition: 0.3s;
+}
+
+.direita {
+    margin-left: auto;
+}
+
+#logo {
+    align-items: center;
+    padding: 0px;
+    width: 170px;
+    height: 40px;
+}
+
+.imenu {
+    color: white;
+}
+
+.imenu:hover {
+    color: rgb(145, 145, 145);
+    transition: 0.3s;
+}
+
+button {
+    background-color: #222222;
+    color: White;
+    border-color: red;
+    border-radius: 10px;
+    width: 70px;
+    height: 25px;
+}
+
+button:hover {
+    color: rgb(145, 145, 145);
+    transition: 0.3s;
+}
+
+.pesquisa {
+    background-color: #222222;
+    border-radius: 10px;
+    border: solid red 1px;
+    padding: 5px 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pesquisa:hover {
+    background-color: rgb(24, 24, 24);
+    transition: 0.3s;
+}
+
+.pesquisa::placeholder {
+    color: rgb(235, 235, 235);
 }
